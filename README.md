@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voyager19878"/>
+
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
