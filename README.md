@@ -33,6 +33,15 @@
    <!-- Python -->
    <a href="https://github.com/search?l=Python&q=user%3Ahud0shnik&type=Repositories" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+   <!-- MySQL -->
+   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" width="40" height="40" />
+
+   <!-- PostgreSQL -->
+   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" width="40" height="40" />
+
+   <!-- Java -->
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" width="40" height="40" />
+   
    <!-- JavaScript -->
    <a href="https://github.com/hud0shnik/hud0shnik.github.io" > 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
