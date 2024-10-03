@@ -2,6 +2,10 @@
 
 <h3>🛠 Languages and Tools :</h3>
 <p>
+   
+   <!-- C -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> | `https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white`
+   
    <!-- Vs Code -->
    <a href="https://github.com/search?q=user%3Ahud0shnik&type=repositories" >
    <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="VS code" width="40" height="40"/></a>
