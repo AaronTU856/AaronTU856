@@ -1,7 +1,7 @@
 ### Hi 👋, I'm 
 
 <h3 align="center"><a href="https://AaronTU856.github.io/">
-   <img alt="Aaron" src="https://readme-typing-svg.herokuapp.com/?lines=Aaron;Welcome=Fira%20Code&width=440&height=45&color=68C3D4&vCenter=true&size=21"></a>
+   <img alt="Aaron" src="https://readme-typing-svg.herokuapp.com/?lines=Aaron;Welcome To My Page! height=45&color=68C3D4&vCenter=true&size=21"></a>
 </h3>
 
 <h3>🛠 Languages and Tools :</h3>
