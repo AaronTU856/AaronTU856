@@ -26,7 +26,7 @@ Image-processing project exploring preprocessing, denoising, binarisation, segme
 
 ## GitHub Statistics
 
-![Aaron's GitHub statistics](https://github-readme-stats.vercel.app/api?username=AaronTU856&show_icons=true&hide_title=true&hide_rank=true)
+[![Aaron's GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronTU856&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 > Statistics are provided by a third-party GitHub README service and may be unavailable temporarily.
 
