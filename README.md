@@ -1,6 +1,6 @@
 # Aaron Baggot
 
-First Class Honours Computer Science graduate from Technological University Dublin (Stage GPA: 3.6), with interests in software engineering, cloud platforms, geospatial systems and data-driven applications.
+First Class Honours Computer Science graduate from Technological University Dublin, with interests in software engineering, cloud platforms, geospatial systems and data-driven applications.
 
 ## Technical Focus
 
