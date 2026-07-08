@@ -8,7 +8,7 @@ Python • Django • Django REST Framework • JavaScript • Java • PostgreS
 
 ## Professional Background
 
-I completed my BSc (Hons) Computer Science at Technological University Dublin with First Class Honours and a Stage GPA of 3.6. My experience includes a Professional Services Engineer placement at Ocuco and 25+ years of business ownership and management, bringing practical stakeholder, operational and problem-solving experience to technology roles.
+I completed my BSc (Hons) Computer Science at Technological University Dublin with First Class Honours. My experience includes a Professional Services Engineer placement at Ocuco and 25+ years of business ownership and management, bringing practical stakeholder, operational and problem-solving experience to technology roles.
 
 ## Featured Projects
 
