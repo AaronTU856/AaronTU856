@@ -1,6 +1,13 @@
 # Aaron Baggot
 
-First Class Honours Computer Science graduate from Technological University Dublin, with interests in software engineering, cloud platforms, geospatial systems and data-driven applications.
+Computer Science graduate building practical web, cloud and geospatial systems.
+
+I work primarily with Python, Django, PostgreSQL/PostGIS, Docker, JavaScript and Google Cloud.
+
+- Based in Dublin
+- First Class Honours BSc Computer Science, TU Dublin
+- Open to software engineering, cloud, GIS and data-focused roles
+- [LinkedIn](https://www.linkedin.com/in/aaron-baggot)
 
 ## Technical Focus
 
