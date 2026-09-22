@@ -2,7 +2,7 @@
 
 First Class Honours Computer Science graduate (TU Dublin) with hands-on experience across technical and application support, SQL troubleshooting and data investigation, Python/Django development, REST APIs, cloud deployment, security-aware delivery, and mobile app development.
 
-- Based in Dublin
+- Based in Offaly | Dublin
 - Professional Services Engineer placement at Ocuco
 - Open to software engineering, cloud, GIS, data, and technical support roles
 
