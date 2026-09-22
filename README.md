@@ -1,45 +1,34 @@
 # Aaron Baggot
 
-Computer Science graduate building practical web, cloud and geospatial systems.
-
-I work primarily with Python, Django, PostgreSQL/PostGIS, Docker, JavaScript and Google Cloud.
+First Class Honours Computer Science graduate (TU Dublin) with hands-on experience across technical and application support, SQL troubleshooting and data investigation, Python/Django development, REST APIs, cloud deployment, security-aware delivery, and mobile app development.
 
 - Based in Dublin
-- First Class Honours BSc Computer Science, TU Dublin
-- Open to software engineering, cloud, GIS and data-focused roles
-- [LinkedIn](https://www.linkedin.com/in/aaron-baggot)
+- Professional Services Engineer placement at Ocuco
+- Open to software engineering, cloud, GIS, data, and technical support roles
 
-## Technical Focus
-
-Python • Django • Django REST Framework • JavaScript • Java • PostgreSQL • PostGIS • Docker • Google Cloud Platform • React Native • Leaflet • Git
-
-## Professional Background
-
-I completed my BSc (Hons) Computer Science at Technological University Dublin with First Class Honours. My experience includes a Professional Services Engineer placement at Ocuco and 25+ years of business ownership and management, bringing practical stakeholder, operational and problem-solving experience to technology roles.
+**Professional links:** [GitHub profile](https://github.com/AaronTU856) · [LinkedIn profile](https://www.linkedin.com/in/aaron-baggot)
 
 ## Featured Projects
 
 ### [Stay & Trek](https://github.com/AaronTU856/stay-and-trek-platform)
+Built and deployed a full-stack geospatial hiking platform that brings together trail discovery, nearby accommodation, weather data, and interactive mapping in one system, with shared API support for web and mobile clients.
 
-Full-stack geospatial hiking and trip-planning platform built with Django, Django REST Framework, PostgreSQL/PostGIS, Leaflet, Docker and Google Cloud Platform. Includes spatial trail and accommodation search, interactive mapping, weather integration and a React Native mobile prototype.
+**Technologies:** Django, Django REST Framework (REST APIs), PostgreSQL/PostGIS, Docker, Google Cloud Platform, Leaflet
 
-### [Childcare Management System](https://github.com/AaronTU856/childcare-management-system)
+### [Easy Access App](https://github.com/AaronTU856/easy-access-app)
+Developed a digital student access-card Android app concept for TU Dublin, enabling campus service access flows with a user-focused interface designed around high contrast and dark-mode accessibility.
 
-Django and PostgreSQL management system demonstrating role-based workflows, company-scoped data, attendance, reporting, billing foundations and Docker-based local delivery.
+**Technologies:** Kotlin, Java, Android Studio, Git
 
-### [Script2Text](https://github.com/AaronTU856/Script2Text)
+## What I bring
 
-Image-processing project exploring preprocessing, denoising, binarisation, segmentation and OCR-oriented handwritten-text workflows in Python and Jupyter notebooks.
-
-## GitHub Statistics
-
-[![Aaron's GitHub statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AaronTU856&theme=github)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-> Statistics are provided by a third-party GitHub README service and may be unavailable temporarily.
+- Technical and application support experience with clear, practical issue resolution
+- SQL troubleshooting and data investigation to diagnose incidents and support users
+- Strong customer and stakeholder communication from academic, placement, and business-facing work
+- Security-aware development habits, including secure handling of credentials and environment configuration
+- End-to-end software delivery across backend, APIs, cloud, and mobile projects
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/aaron-baggot](https://www.linkedin.com/in/aaron-baggot)
-- GitHub: [github.com/AaronTU856](https://github.com/AaronTU856)
-
-I am open to graduate opportunities in software engineering, cloud and infrastructure, GIS, data and technology roles.
+- [LinkedIn: aaron-baggot](https://www.linkedin.com/in/aaron-baggot)
+- [GitHub: AaronTU856](https://github.com/AaronTU856)
