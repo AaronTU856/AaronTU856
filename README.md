@@ -1,6 +1,6 @@
 # Aaron Baggot
 
-First Class Honours Computer Science graduate (TU Dublin) with hands-on experience across technical and application support, SQL troubleshooting and data investigation, Python/Django development, REST APIs, cloud deployment, security-aware delivery, and mobile app development.
+Computer Science graduate (TU Dublin) with hands-on experience across technical and application support, SQL troubleshooting and data investigation, Python/Django development, REST APIs, cloud deployment, security-aware delivery, and mobile app development.
 
 - Based in Offaly | Dublin
 - Professional Services Engineer placement at Ocuco
