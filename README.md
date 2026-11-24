@@ -6,7 +6,7 @@ Computer Science graduate (TU Dublin) with hands-on experience across technical 
 - Professional Services Engineer placement at Ocuco
 - Open to software engineering, cloud, GIS, data, and technical support roles
 
-**Professional links:** [Download CV](./Aaron-Baggot-CV.pdf) · [GitHub profile](https://github.com/AaronTU856) · [LinkedIn profile](https://www.linkedin.com/in/aaron-baggot)
+**Professional links:** [Download CV](./Aaron-Baggot-CV.pdf) · [GitHub profile](https://github.com/AaronTU856) · [LinkedIn profile](https://www.linkedin.com/in/aaron-baggot) · [Portfolio](https://aarontu856.github.io/)
 
 ## Featured Projects
 
